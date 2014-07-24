@@ -3,8 +3,10 @@
 	font-size: 20px;
 }
 
-html, body {
-	background: sandybrown;
+body {
+	background: url('mobiles.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 table {
